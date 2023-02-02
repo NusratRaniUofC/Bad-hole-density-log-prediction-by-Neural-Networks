@@ -1,2 +1,3 @@
 # Bad-hole-density-log-prediction-by-Neural-Networks
-![download](https://user-images.githubusercontent.com/85706033/172197493-c0d9e102-a47a-4bfc-9ba7-f283fa9284a0.png)
+![image](https://user-images.githubusercontent.com/85706033/216458033-9d504978-60bc-4e48-af49-89e001b828e0.png)
+
